@@ -14,10 +14,6 @@ This project implements a microservices-based e-commerce system managing user au
 - [Database Integration](#database-integration)
 - [APIs and Communication](#apis-and-communication)
 - [Authentication and Authorization](#authentication-and-authorization)
-- [Setup Instructions](#setup-instructions)
-- [Testing](#testing)
-- [Bonus Features](#bonus-features)
-- [Assumptions](#assumptions)
 
 ## Architecture
 
@@ -97,10 +93,3 @@ Each service is containerized using Docker and deployed on Kubernetes for high a
 - Docker Compose
 - Kubernetes (Minikube or any Kubernetes cluster)
 - kubectl
-
-### Steps
-
-1. **Clone the repository**:
-   ```sh
-   git clone <repository-url>
-   cd project-directory
